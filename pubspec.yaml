@@ -1,0 +1,10 @@
+#EL ARVHICO PUBSPEC para manejar dependecnias en dart 
+name: 'mi_simple_proyect'
+description: 'un proyecto very simple para ver el manejo de dependencias'
+version: 0.1.0
+
+environment: 
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies: 
+  http: ^0.13.3

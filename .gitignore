@@ -1,0 +1,25 @@
+# Files and directories created by pub
+.dart_tool/
+.packages
+.pub/
+build/
+
+# If you're using Flutter, also add:
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Generated code files
+.generated/
+
+# If you're using VSCode, consider excluding the settings directory:
+.vscode/
+
+# If you're using IntelliJ IDEA, WebStorm, etc., exclude the following:
+.idea/
+
+# OS specific files
+.DS_Store
+.Thumbs.db
+
+# Log files
+*.log
